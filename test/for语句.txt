@@ -1,0 +1,9 @@
+x:=100;
+for ( fact:= x-1;fact>0;--fact)[
+fact := fact * x;
+x:=x+1
+];
+for(fact := 1;fact <=x;++fact)[
+fact := fact * x;
+x:=x-1
+]

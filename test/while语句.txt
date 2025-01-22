@@ -1,0 +1,6 @@
+x:=100;
+fact:=1;
+while(fact<=x)
+fact := fact * x;
+x:=x+1
+endwhile

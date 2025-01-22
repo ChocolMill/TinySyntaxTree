@@ -1,0 +1,17 @@
+x:=5;
+if( x>=1)[
+   for( fact := x;fact>0;--fact)[
+fact := fact * x;
+if (fact<>5) [y:=10] else [y:=20]
+for (z := 1;z<=y;--z)[
+   ++x;
+x:= 2 +3*4 %6^2*(7+9);
+x--
+    ]
+  ]
+]
+else
+w::= ((a|b)?&d&d#)&(c&d&d#)?&((E|e)&((a|b)?&d&d#))?;
+while (x>0) 
+--x; 
+endwhile
